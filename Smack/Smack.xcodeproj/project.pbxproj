@@ -15,6 +15,7 @@
 		F40227E721EBF97900AD0A9F /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F40227E521EBF97900AD0A9F /* SWRevealViewController.m */; };
 		F4EF726121ECE1A600D491A7 /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4EF726021ECE1A600D491A7 /* ChatVC.swift */; };
 		F4EF726321ECE1BB00D491A7 /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4EF726221ECE1BB00D491A7 /* ChannelVC.swift */; };
+		F4EF726521ECE70A00D491A7 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4EF726421ECE70A00D491A7 /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		F40227E621EBF97900AD0A9F /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		F4EF726021ECE1A600D491A7 /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		F4EF726221ECE1BB00D491A7 /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		F4EF726421ECE70A00D491A7 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		FF437AD030651B7C3D12A182 /* Pods-Smack.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smack.release.xcconfig"; path = "Pods/Target Support Files/Pods-Smack/Pods-Smack.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -119,6 +121,7 @@
 		F4EF725E21ECE18300D491A7 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				F4EF726421ECE70A00D491A7 /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -251,6 +254,7 @@
 			files = (
 				F4EF726321ECE1BB00D491A7 /* ChannelVC.swift in Sources */,
 				F4EF726121ECE1A600D491A7 /* ChatVC.swift in Sources */,
+				F4EF726521ECE70A00D491A7 /* GradientView.swift in Sources */,
 				F40227D221EBED2F00AD0A9F /* AppDelegate.swift in Sources */,
 				F40227E721EBF97900AD0A9F /* SWRevealViewController.m in Sources */,
 			);
